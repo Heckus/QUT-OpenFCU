@@ -1,11 +1,12 @@
-# QUT Open Source Autopilot (QUTOpenSourceFCU)
+# QUT Open Source Autopilot Hardware (QUTOpenFCU)
 
 ## 🏛️ University Property & Acknowledgement
 **This project and its contents have been supported by the Queensland University of Technology (QUT)**. 
 It was developed as an in-house hardware solution for UAV units at QUT. QUT acknowledges the Turrbal and Yugara, as the First Nations owners of the lands where QUT now stands. 
 
 ##  Project Overview
-This project involves refactoring, building, programming, and testing an open-source flight module design to serve as a replacement for current hardware. The design stems from the pixracer design, produced by Nick Arsov and Phillip Kocmoud and architected by Lorenz Meier, David Sidrane and Leonard Hall.(https://docs.px4.io/v1.12/en/flight_controller/pixracer.html)
+This project involves refactoring, building, programming, and testing an open-source flight module design to serve as a replacement for current hardware. The design stems from the pixracer design, produced by Nick Arsov and Phillip Kocmoud and architected by Lorenz Meier, David Sidrane and Leonard Hall.
+(https://docs.px4.io/v1.12/en/flight_controller/pixracer.html)
 
 The primary objective is to create an alternative to the difficult-to-source off-the-shelf Pixhawk 6. This work builds upon a edited pixracer version produced by KAI (Wesley) in 2022.
 
