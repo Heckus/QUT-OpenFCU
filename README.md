@@ -5,7 +5,9 @@
 It was developed as an in-house hardware solution for UAV units at QUT. QUT acknowledges the Turrbal and Yugara, as the First Nations owners of the lands where QUT now stands. 
 
 ##  Project Overview
-This project involves refactoring, building, programming, and testing an open-source flight module design to serve as a replacement for current hardware. The primary objective is to create an alternative to the difficult-to-source off-the-shelf Pixhawk 6. This work builds upon the v1 version produced by KAI (Wesley) in 2022.
+This project involves refactoring, building, programming, and testing an open-source flight module design to serve as a replacement for current hardware. The design stems from the pixracer design, produced by Nick Arsov and Phillip Kocmoud and architected by Lorenz Meier, David Sidrane and Leonard Hall.(https://docs.px4.io/v1.12/en/flight_controller/pixracer.html)
+
+The primary objective is to create an alternative to the difficult-to-source off-the-shelf Pixhawk 6. This work builds upon a edited pixracer version produced by KAI (Wesley) in 2022.
 
 The final demonstrator capabilities include:
 * Loading open-source firmware with customizations.
