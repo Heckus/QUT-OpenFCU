@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BUZZER- Pin=D5-1
+Removed Pin From Net: NetName=BUZZER+ Pin=D5-2
+Change Component Footprint: Designator=D5 Old Footprint=DO-35 New Footprint=1N4448XTP
+Change Component Comment : Designator=D5 Old Comment=Diode 1N4448 New Comment=1N4448X-TP
+Change component parameters: Designator = "D5" ("D5"); Footprint = "DO-35"; UniqueID = "\UJQYYXJS" ("\UJQYYXJS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "1N4448X-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1n4448x-tp/micro-commercial-components?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mccsemi.com/pdf/Products/1N4448X(SOD-523).PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Micro Commercial Components (MCC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4448X-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "833-1N4448X-TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/1N4448X-TP?qs=0RDYWt4CO4fFI8HfN%2F4aEA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BUZZER+ Pin=D5-1
+Added Pin To Net: NetName=BUZZER- Pin=D5-2
+Added Member To Class: ClassName=pixracer_power Member=Component D5 1N4448X-TP

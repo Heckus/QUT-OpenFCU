@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: pixracer_pcb_layout_v2.PcbDoc   6/01/2026  12:28:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : pixracer_pcb_layout_v2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.16mm)                                             Round             13        PTH        2.58inch (65.52mm)
+T2      10mil (0.25mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             163       PTH        14.87inch (377.71mm)
+T4      14mil (0.356mm)                                           Round             27        PTH        4.77inch (121.09mm)
+T5      35mil (0.9mm)                                             Round             18        PTH        1.70inch (43.18mm)
+T6      134mil (3.4mm)                                            Round             4         PTH        4.50inch (114.30mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              226
+
+Total Processing Time (hh:mm:ss) : 00:00:00

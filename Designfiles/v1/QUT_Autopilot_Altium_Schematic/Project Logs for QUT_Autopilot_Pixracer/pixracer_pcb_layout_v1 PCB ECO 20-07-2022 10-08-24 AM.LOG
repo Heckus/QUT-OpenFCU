@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=C16 Old Footprint=FP-GRM188-0_2-MFG New Footprint=FP-GRM31C-0_3-e0_3_0_9-IPC_C
+Change Component Comment : Designator=C16 Old Comment=GRM188R60G226MEA0D New Comment=GRM31CR60G227ME11L
+Change Managed Component Library Link : Designator=C16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D25868C-BF4B-4884-A526-B072A923443B New ItemGUID=7F7C6F06-D9D7-4C78-9973-A421E29A0D8B Old RevisionGUID=11647FF7-703B-49A6-8CB8-9EE50A5FE9B9 New RevisionGUID=5EEA2204-5329-4D9C-B1F4-3C0423789DC2
+Change component parameters: Designator = "C16" ("C16"); Footprint = "FP-GRM188-0_2-MFG"; UniqueID = "\GMLVWWVX" ("\GMLVWWVX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF 4V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.126inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.075inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "4V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "4V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.001411oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=pixracer_power Member=Component D4 PMEG1030EH,115
+Added Member To Class: ClassName=pixracer_sd_usb_can_i2c Member=Component J3 SM06B-GHS-TB(LF)(SN)
+Added Member To Class: ClassName=pixracer_serials Member=Component R31 CRCW0603220RFKEB

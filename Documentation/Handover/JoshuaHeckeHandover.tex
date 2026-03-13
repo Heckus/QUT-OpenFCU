@@ -1,0 +1,129 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{enumitem}
+
+\title{Handover Document: Development of an Open Source Autopilot for QUT}
+\author{Joshua Hecke (n11585382)}
+\date{March 2026}
+
+\begin{document}
+
+\maketitle
+
+\section{Project Overview}
+This project involved refactoring, building, programming, and testing an open-source flight module design to serve as an in-house replacement for UAV units at QUT. The design is an evolution of the AUAV Pixracer (FMUv4 generation), licensed under Creative Commons Attribution-ShareAlike 3.0. 
+
+The work presented was derived from the v1 version produced by Wesley (KAI) in 2022.
+
+\section{Hardware Specifications}
+The autopilot is optimized for small racing quads and planes, supporting up to 6 PWM outputs.
+
+\subsection{Standard Specifications (v1)}
+\begin{itemize}
+    \item \textbf{MCU:} STM32F427VIT6 CPU (180 MHz ARM Cortex M4).
+    \item \textbf{Connectivity:} In-built WiFi, JST GH connectors, microSD logging.
+    \item \textbf{Sensors:} Invensense MPU9250 and ICM-20608, MS5611 Barometer, and HMC5983 Compass.
+\end{itemize}
+
+\subsection{Modified Specifications (v2)}
+Modified sensors were integrated to modernize the board:
+\begin{itemize}
+    \item \textbf{Gyro/Accelerometer:} Invensense IMC-42688-P and ICM-20608-G.
+    \item \textbf{Compass:} LIS3MDLTR Mag.
+    \item \textbf{New Features:} Added dedicated Reset and BOOT0 buttons.
+\end{itemize}
+
+% FIGURE PLACEHOLDER: Board Top View
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.5\textwidth]{pixracer_v1_top.jpg}
+%     \caption{Pixracer V1 Top View and Pinout[cite: 892].}
+% \end{figure}
+
+\section{Firmware and Software}
+The system utilizes \textbf{PX4 firmware} loaded via DFU.
+\begin{itemize}
+    \item \textbf{Modifications:} Drivers and SPI chip select pins were modified for custom hardware compatibility.
+    \item \textbf{Telemetry:} Mavlink 8266 firmware was loaded onto the external ESP-01 WiFi chip.
+    \item \textbf{Testing:} Custom firmware was designed to test sensor communication, using the onboard LED to signal specific communication failures.
+\end{itemize}
+
+\section{Project Timeline and Milestone Notes}
+The following log represents the development progress and testing phase:
+
+\begin{itemize}
+    \item \textbf{11/10/2022}: Initial project proceeding.
+    \item \textbf{01/06/2023}: Development continued following the initial refactor.
+    \item \textbf{08/12/2025}: Finalized board configuration and functional requirements.
+    \item \textbf{09/12/2025}: Validated critical pins, including PA4-7, PD15, and PC2.
+    \item \textbf{23/12/2025}: Reviewed PCB layout metrics, specifically aspect ratio and soldermask bridges.
+    \item \textbf{05/01/2026}: Conducted a major design review for the next iteration(missing 3.3V to STM)
+    \item \textbf{28/01/2026}: \textbf{Critical Failure.} 12.5V was sent into the board, causing it to catch fire.
+    \item \textbf{02/02/2026}: \textbf{Fabrication Success.} V2 board was fabricated. Custom firmware was designed to test sensor communication, using the onboard LED to signal specific communication failures. All sensors were communicating properly.
+    \item \textbf{03/02/2026}: \textbf{Firmware Success.} PX4 firmware was successfully loaded and mav8266 firmware was successfully loaded onto the ESP-01 WiFi chip. 
+    \item \textbf{10/02/2026}: \textbf{Connectivity Success.} Connectivity to QGroundControl was verified. Basic Airframe was assembled and tested for basic operations.
+    \item \textbf{20/02/2026}: \textbf{Flight Test Success.} The drone was able to take off, hover and fly. Demonstrating basic stability in manual mode. This was done either using RC or MAVLink commands from QGroundControl.
+    \item \textbf{24/02/2026}: \textbf{Companion Computer Integration.} The airframe was updated with a companion computer and used TELM1 and a usb-uart connection connection to the V2 board worked. The drones mavros node was able to collect position data and map using rviz2.
+    \item \textbf{25/02/2026}: \textbf{Autonomy Test Partial Success.} Full autonomous flight was not achieved due to a error with offboarding mode, However position hold and position tracking using a companion computer and ros2 was successful.
+    \item \textbf{10/03/2026}: \textbf{V3 Design Review.} Issues were identified for the next board revision, including labeling, thermal relief, component placement, USB routing, sensor interference, debugging access, and mechanical design. Handover document was finalized and submitted.
+\end{itemize}
+
+% FIGURE PLACEHOLDER: V2 Board Fabricated
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.4\textwidth]{v2_board_lights.jpg}
+%     \caption{Fabricated V2 board showing successful sensor communication[cite: 1218].}
+% \end{figure}
+
+\section{Flight Tests and Validation}
+At the end of the project, the prototype was prepared for flight tests to validate the design's stability.
+\begin{itemize}
+    \item \textbf{Goal:} Test design validity and sensor accuracy under flight conditions.
+    \item \textbf{Status:} Connectivity to QGroundControl was verified for basic operations on a simple airframe.
+    \item \textbf{Stability:} The drone was able to take off, hover and fly. Demonstrating basic stability in manual mode. This was done either using RC or MAVLink commands from QGroundControl.
+    \item \textbf{Autonomy:} Full autonomous flight was not achieved due to a error with offboarding mode, However a compainion computer was connected to the board and used TELM1 and a usb-uart connection connection to the V2 board worked. The drone used a inside camera based tracking system and ros2 to collect position data and preform hold position operation which were successful.
+\end{itemize}
+
+% FIGURE PLACEHOLDER: V2 Board Fabricated
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.4\textwidth]{v2_board_lights.jpg}
+%     \caption{Fabricated V2 board showing successful sensor communication[cite: 1218].}
+% \end{figure}
+% FIGURE PLACEHOLDER: V2 Board Fabricated
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.4\textwidth]{v2_board_lights.jpg}
+%     \caption{Fabricated V2 board showing successful sensor communication[cite: 1218].}
+% \end{figure}
+% FIGURE PLACEHOLDER: V2 Board Fabricated
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.4\textwidth]{v2_board_lights.jpg}
+%     \caption{Fabricated V2 board showing successful sensor communication[cite: 1218].}
+% \end{figure}
+\section{Current Issues and Improvements for V3}
+The following issues were identified for the next board revision:
+\begin{enumerate}
+    \item \textbf{Power Supply:} The 3.3V line to the STM was missing, which is critical for board operation.
+    \item \textbf{Labeling:} D4 label is missing; overall board labels are too small to read.
+    \item \textbf{Thermal Relief:} No thermal relief on the copper polygons/ground pads.
+    \item \textbf{Component Placement:} Place all small components (STM, Sensors) on a single face to allow for easier solder paste mask and reflow.
+    \item \textbf{USB Routing:} USB data lines are not currently of equal length.
+    \item \textbf{Sensor Interference:} Rotate one of the accelerometer sensors 90 degrees so they do not share the same orientation.
+    \item \textbf{Debugging:} Add a breakout for serial debugging pins to avoid using DFU lines.
+    \item \textbf{Mechanical:} Reverse the SD card footprint for better accessibility; increase board size/mounting holes for better case integration.
+\end{enumerate}
+
+\section{Future Work}
+\begin{itemize}
+    \item Design an outer case with proper vibration isolation and barometer foam protection.
+    \item Consider an Ethernet header or a Raspberry Pi header for non-WiFi modes.
+    \item Finalize external production setup once V3 issues are resolved.
+\end{itemize}
+
+\end{document}

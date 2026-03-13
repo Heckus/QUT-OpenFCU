@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=pixracer_fmu.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=pixracer_fmu.SchDoc|FileName=pixracer_imu.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=pixracer_fmu.SchDoc|FileName=pixracer_power.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=pixracer_fmu.SchDoc|FileName=pixracer_sd_usb_can_i2c.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=pixracer_fmu.SchDoc|FileName=pixracer_serials.SchDoc|SheetNumber=4

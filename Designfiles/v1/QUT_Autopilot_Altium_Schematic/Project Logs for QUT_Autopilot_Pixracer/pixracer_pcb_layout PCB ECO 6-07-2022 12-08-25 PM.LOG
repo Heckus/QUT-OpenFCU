@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=JP1 Old Footprint=HDR2X5 New Footprint=M503100545
+Change Component Comment : Designator=JP1 Old Comment=Header 5X2 New Comment=M50-3100545
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "HDR2X5"; UniqueID = "\VHVUNUUW" ("\VHVUNUUW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M50-310.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M50-3100545"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-M50-3100545"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/M50-3100545?qs=Jph8NoUxIfUarVN5NMn2Ag%3D%3D"; VariantName = "[No Variations]"

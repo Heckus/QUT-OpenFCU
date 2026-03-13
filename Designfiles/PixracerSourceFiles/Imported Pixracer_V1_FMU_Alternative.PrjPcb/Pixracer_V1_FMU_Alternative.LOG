@@ -1,0 +1,697 @@
+Importer Log Report
+Project : Pixracer_V1_FMU_Alternative.PrjPcb
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SamacSys_Parts.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SamacSys_Parts.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 34
+    Load Symbols 37
+    Load DeviceSets 37
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\LilyPad-Wearables.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\LilyPad-Wearables.lbr
+    Load settings
+    Load layers 97
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 17
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Aesthetics.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Aesthetics.lbr
+    Load settings
+    Load layers 174
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 126
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 35
+    Load DeviceSets 35
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Batteries.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Batteries.lbr
+    Load settings
+    Load layers 147
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Boards.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Boards.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 71
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 62
+    Load DeviceSets 47
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Buzzard.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Buzzard.lbr
+    Load settings
+    Load layers 62
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 53
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Capacitors.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Capacitors.lbr
+    Load settings
+    Load layers 177
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 37
+    Load Symbols 7
+    Load DeviceSets 71
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Clocks.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Clocks.lbr
+    Load settings
+    Load layers 177
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 33
+    Load Symbols 15
+    Load DeviceSets 33
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Coils.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Coils.lbr
+    Load settings
+    Load layers 176
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 32
+    Load Symbols 4
+    Load DeviceSets 26
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Connectors.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Connectors.lbr
+    Load settings
+    Load layers 177
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 409
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 106
+    Load DeviceSets 112
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-DiscreteSemi.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-DiscreteSemi.lbr
+    Load settings
+    Load layers 177
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 44
+    ERROR: Unhandled typepackages3d
+    Load Symbols 36
+    Load DeviceSets 42
+    ERROR: Unhandled typepackage3dinstances
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Displays.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Displays.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 16
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Electromechanical.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Electromechanical.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 9
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Fuses.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Fuses.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-GPS.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-GPS.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 20
+    Load Symbols 18
+    Load DeviceSets 19
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Hardware.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Hardware.lbr
+    Load settings
+    Load layers 183
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 30
+    Load Symbols 11
+    Load DeviceSets 11
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Amplifiers.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Amplifiers.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 14
+    Load Symbols 11
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Comms.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Comms.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    Load Symbols 26
+    Load DeviceSets 26
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Conversion.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Conversion.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 13
+    Load Symbols 15
+    Load DeviceSets 16
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Logic.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Logic.lbr
+    Load settings
+    Load layers 184
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 14
+    Load Symbols 19
+    Load DeviceSets 19
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Memory.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Memory.lbr
+    Load settings
+    Load layers 177
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 9
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Microcontroller.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Microcontroller.lbr
+    Load settings
+    Load layers 177
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 44
+    Load Symbols 74
+    Load DeviceSets 44
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Power.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Power.lbr
+    Load settings
+    Load layers 184
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 47
+    Load Symbols 50
+    Load DeviceSets 58
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Special-Function.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-IC-Special-Function.lbr
+    Load settings
+    Load layers 184
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 46
+    Load Symbols 47
+    Load DeviceSets 47
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Jumpers.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Jumpers.lbr
+    Load settings
+    Load layers 147
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 20
+    ERROR: Unhandled typepackages3d
+    Load Symbols 9
+    Load DeviceSets 10
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-LED.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-LED.lbr
+    Load settings
+    Load layers 177
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 46
+    Load Symbols 14
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-MicroMod.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-MicroMod.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-PowerSymbols.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-PowerSymbols.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 29
+    Load DeviceSets 30
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Resistors.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Resistors.lbr
+    Load settings
+    Load layers 155
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 38
+    Load Symbols 9
+    Load DeviceSets 135
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Retired.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Retired.lbr
+    Load settings
+    Load layers 147
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 303
+    ERROR: Unhandled typedimension
+    Load Symbols 221
+    Load DeviceSets 245
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-RF.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-RF.lbr
+    Load settings
+    Load layers 184
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 87
+    ERROR: Unhandled typedimension
+    Load Symbols 66
+    Load DeviceSets 63
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Sensors.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Sensors.lbr
+    Load settings
+    Load layers 175
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 114
+    Load Symbols 110
+    Load DeviceSets 113
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Switches.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\SparkFun-Switches.lbr
+    Load settings
+    Load layers 141
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 67
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 26
+    Load DeviceSets 28
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\User-Submitted.lbr
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\libraries\SparkFun-Eagle-Libraries-main\User-Submitted.lbr
+    Load settings
+    Load layers 141
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 21
+    Load Symbols 19
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\projects\QUT_UAV_Autopilot\FMUv4_Pixracer\FMUv4_Pixracer_V1\Pixracer_V1_FMU_Alternative.brd
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\projects\QUT_UAV_Autopilot\FMUv4_Pixracer\FMUv4_Pixracer_V1\Pixracer_V1_FMU_Alternative.brd
+    Load settings
+    Load layers 184
+    Load board
+    Load Library "SparkFun-Capacitors"
+    Load Packages 5
+    Load Library "SamacSys_Parts"
+    Load Packages 30
+    Load Library "SparkFun-DiscreteSemi"
+    Load Packages 1
+    Load Library "SparkFun-Fuses"
+    Load Packages 2
+    Load Library "SparkFun-Connectors"
+    Load Packages 1
+    Load Library "pinhead"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "SparkFun-Resistors"
+    Load Packages 1
+    Load Library "SparkFun-IC-Power"
+    Load Packages 1
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
+
+Section : Analyze Document - C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\projects\QUT_UAV_Autopilot\FMUv4_Pixracer\FMUv4_Pixracer_V1\Pixracer_V1_FMU_Alternative.sch
+    Analyzing data of C:\Users\leek38\OneDrive - Queensland University of Technology\Documents\EAGLE\projects\QUT_UAV_Autopilot\FMUv4_Pixracer\FMUv4_Pixracer_V1\Pixracer_V1_FMU_Alternative.sch
+    Load settings
+    Load layers 184
+    Load schematic
+    Load Libraries 9
+    Load Library "SamacSys_Parts"
+    Load Packages 30
+    Load Symbols 30
+    Load DeviceSets 30
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Capacitors"
+    Load Packages 20
+    Load Symbols 2
+    Load DeviceSets 8
+    Load Library "SparkFun-IC-Power"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Resistors"
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 11
+    Load Library "SparkFun-Connectors"
+    Load Packages 22
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "pinhead"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "SparkFun-Fuses"
+    Load Packages 5
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-DiscreteSemi"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 192
+    Load Sheets 5
+EndSection

@@ -1,0 +1,4 @@
+{
+    "stm32-for-vscode.openOCDPath": "/home/hecke/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/openocd/0.12.0-7.1/.content/bin/openocd",
+    "stm32-for-vscode.armToolchainPath": "/home/hecke/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin"
+}

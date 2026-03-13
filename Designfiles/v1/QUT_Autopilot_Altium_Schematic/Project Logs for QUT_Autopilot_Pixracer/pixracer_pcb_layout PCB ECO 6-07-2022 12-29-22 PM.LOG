@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=FMU_USART1_RX Pin=JP1-1
+Removed Pin From Net: NetName=GND Pin=JP1-2
+Removed Pin From Net: NetName=8266_PD Pin=JP1-3
+Removed Pin From Net: NetName=8266_GPIO2 Pin=JP1-4
+Removed Pin From Net: NetName=8266_RST Pin=JP1-5
+Removed Pin From Net: NetName=8266_GPIO0 Pin=JP1-6
+Removed Pin From Net: NetName=VDD_3V3_PERIPH Pin=JP1-7
+Removed Pin From Net: NetName=FMU_USART1_TX Pin=JP1-8
+Removed Pin From Net: NetName=8266_RTS Pin=JP1-9
+Removed Pin From Net: NetName=8266_CTS Pin=JP1-10
+Added Component: Designator=J?(M207870542)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M20-787.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M20-7870542"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-M20-7870542"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/M20-7870542?qs=pYcASEcTDE5n50hY36KnOA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FMU_USART1_RX Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=8266_PD Pin=J?-3
+Added Pin To Net: NetName=8266_GPIO2 Pin=J?-4
+Added Pin To Net: NetName=8266_RST Pin=J?-5
+Added Pin To Net: NetName=8266_GPIO0 Pin=J?-6
+Added Pin To Net: NetName=VDD_3V3_PERIPH Pin=J?-7
+Added Pin To Net: NetName=FMU_USART1_TX Pin=J?-8
+Added Pin To Net: NetName=8266_RTS Pin=J?-9
+Added Pin To Net: NetName=8266_CTS Pin=J?-10
+Added Member To Class: ClassName=pixracer_serials Member=Component J? M20-7870542

@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=JP1 Old Footprint=M207870542 New Footprint=SMTC-SSM-105-X-DV
+Change Component Comment : Designator=JP1 Old Comment=M20-7870542 New Comment=SSM-105-L-DV
+Change Managed Component Library Link : Designator=JP1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1EB3B98B-302E-4AC1-9035-959CC009E4C6 Old RevisionGUID= New RevisionGUID=D8E3AF0B-5306-44E5-9CB4-0469579DA3CC
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "M207870542"; UniqueID = "\TESVIGMB" ("\TESVIGMB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/SSM_SM.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/SSM-1XX-XXX-DV-XX-XX-X-XX-MKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ".100 C.L. Double Vertical SMT Socket Strip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SSM-105-X-DV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "AK, 3/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SSM-105-L-DV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=pixracer_fmu Member=Component C14 C1608X7R1A225K080AC
+Added Member To Class: ClassName=pixracer_power Member=Component C44 CC0603KRX5R5BB106
+Added Member To Class: ClassName=pixracer_power Member=Component C45 0603ZC104MAT2A
+Added Member To Class: ClassName=pixracer_sd_usb_can_i2c Member=Component IC8 TJA1051TK_3,118

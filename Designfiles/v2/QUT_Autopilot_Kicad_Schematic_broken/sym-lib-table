@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "QUT_Autopilot_Pixracer-altium-import")(type "KiCad")(uri "${KIPRJMOD}/QUT_Autopilot_Pixracer-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "SymLibrary")(type "KiCad")(uri "${KIPRJMOD}/SymLibrary.kicad_sym")(options "")(descr ""))
+)

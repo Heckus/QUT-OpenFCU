@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=IC9-3
+Added Room: Name=pixracer_fmu
+Added Room: Name=pixracer_imu
+Added Room: Name=pixracer_power
+Added Room: Name=pixracer_sd_usb_can_i2c
+Added Room: Name=pixracer_serials

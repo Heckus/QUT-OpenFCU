@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QUT_Autopilot_Pixracer.PrjPcb]
+   Generated File[pixracer_pcb_layout_v1.TXT]
+   Generated File[pixracer_pcb_layout_v1.LDP]
+   Generated File[pixracer_pcb_layout_v1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:47:39 AM On 22/07/2024

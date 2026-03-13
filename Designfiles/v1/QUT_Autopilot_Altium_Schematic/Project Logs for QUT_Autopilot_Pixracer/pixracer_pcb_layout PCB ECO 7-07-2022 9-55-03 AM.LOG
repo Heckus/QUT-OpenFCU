@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J10 Old Footprint=HDR1X6H New Footprint=HDR1X6
+Change Component Comment : Designator=J10 Old Comment=Header 6H New Comment=Header 6
+Added Room: Name=pixracer_fmu
+Added Room: Name=pixracer_imu
+Added Room: Name=pixracer_power
+Added Room: Name=pixracer_sd_usb_can_i2c
+Added Room: Name=pixracer_serials
