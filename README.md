@@ -38,16 +38,16 @@ The core design is based on the AUAV Pixracer, which is the FMUv4 generation of 
 * A breakout for serial debugging output needs to be added.
 * The SD card footprint should be reversed for better access.
 * The STM chip is not connected to 3.3v.
+* Offboarding mode errors on QGroundControl 
 
 ### Future Work
-* Flight testing the prototype to test design validity.
 * Fixing the outlined issues and setting up external production.
 * Designing an outer case with proper sensor specs, including barometer foam protection and chip vibration isolation techniques.
 * Validating external component connections, PX4 firmware, and QGroundControl configurations.
 * Considering turning the design into a Pi header with required isolation.
 
 ## 📸 Project Showcase
-Operation videos and development images can be found inside the .zip file in the Showcase folder
+Operation videos and development images can be found inside the Showcase folder
 * ![Photo 1](Showcase/Photo1.jpg)
 * ![Photo 2](Showcase/Photo2.jpg)
 * ![Photo 3](Showcase/Photo3.jpg)
