@@ -1,7 +1,7 @@
-PWD /home/hecke/Github/QUTOpenSourceFCU/Documentation/Handover
+PWD /home/hecke/Github/QUT-OpenFCU/Documentation/Handover
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/hecke/Github/QUTOpenSourceFCU/Documentation/Handover/JoshuaHeckeHandover.tex
+INPUT /home/hecke/Github/QUT-OpenFCU/Documentation/Handover/JoshuaHeckeHandover.tex
 OUTPUT JoshuaHeckeHandover.log
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
